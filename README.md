@@ -11,6 +11,6 @@ My Public Projects:
                                 If you are a random user that somehow found this page I would like to ask you to not use 
                                 this repositories content as I am not sure of the legal situation of this DNS-Blocklist collection.
                                 Also I can not gurantee for any maintaince on these list and would strongly recommend to never access 
-                                any of the listed domains. If you decide to do so you do that on your own risk and I am not responsible 
-                                for any damage to your system, your wellbeing, etc. - since I never even visited all those sites by myself 
-                                I can not even tell you what these listed domains are about. 
+                                any of the listed domains. If you decide to do so, you do that on your own risk and I am not responsible 
+                                for any damage to your system, your wellbeing, etc. - since I never even visited all those sites by 
+                                myself, I can not even tell you what these listed domains are about. 
