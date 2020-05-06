@@ -1,4 +1,5 @@
 abtest-va-tiktok.byteoversea.com
+ams1-ib.adnxs.com
 api-h2.tiktokv.com
 api.tiktokv.com
 api2-16-h2-eagle-useast2a.musical.ly
@@ -30,8 +31,10 @@ dm-maliva16.byteoversea.com
 dm.bytedance.com
 e26771.a.akamaiedge.net
 frontier.musical.ly
+gateway.fe.apple-dns.net
 gecko-va.musical.ly
 i.ytimg.com
+i2.ytimg.com
 ib.snssdk.com
 ib.tiktokv.com
 ibytedtos.com
@@ -43,6 +46,7 @@ isl1-ssl.mzstatic.com
 isl2-ssl.mzstatic.com
 isl3-ssl.mzstatic.com
 isl4-ssl.mzstatic.com
+jsb-va.musical.ly
 live.muscdn.com
 live.musemuse.cn
 live.musical.ly
@@ -65,6 +69,7 @@ mon.tiktokv.com
 mphw-suse1.muscdn.com
 muscdn.com
 musical.ly
+musically.app.link
 ns-1475.awsdns-56.org
 ns-1574.awsdns-04.co.uk
 ns-440.awsdns-55.com
@@ -81,7 +86,6 @@ sf16-muse-va.ibytedtos.com
 sgali3.l.byteoversea.net
 share-1070666956.ap-northeast-1.elb.amazonaws.com
 share.muscdn.com
-share.musemuse.cn
 share.musemuse.cn
 share.musical.ly
 share.tiktok.com
@@ -110,6 +114,7 @@ www.musical.ly
 www.tiktok.com
 www.xvideos.com
 www.xvideos.com
+ytimg.com
 xlog-va.byteoversea.com
 xlog-va.musical.ly
 xlog-va.musically.ly
@@ -117,7 +122,9 @@ xlog-va.musically.ly
 
 ([^#]|#)*muscdn\.com$
 ([^#]|#)*musemuse\.cn$
+([^#]|#)*musemuse$
 ([^#]|#)*musical\.ly$
+([^#]|#)*musically$
 ([^#]|#)*tiktok$
 ([^#]|#)*tiktokcdn\.com$
 ([^#]|#)*tiktokv\.com$
@@ -125,6 +132,7 @@ xlog-va.musically.ly
 ^muscdn?[-.]
 ^musemuse?[-.]
 ^musical\.ly?[-.]
+^musically?[-.]
 ^tiktok?[-.]
 ^tiktokcdn?[-.]
 ^tiktokv?[-.]
