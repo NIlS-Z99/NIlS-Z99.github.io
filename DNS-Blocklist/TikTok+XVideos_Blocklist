@@ -1,15 +1,4 @@
 abtest-va-tiktok.byteoversea.com
-ads.trafficjunky.com
-ads.trafficjunky.net
-ad.trafficjunky.com
-ad.trafficjunky.net
-as.2020mustang.com
-as.2020mustang.net
-a.adtng.com
-a.adtng.net
-all.huodonghylivecdn.sched.ovscdns.net
-all.hylivecdn.sched.ovscdns.net
-ams1-ib.adnxs.com
 api-h2.tiktokv.com
 api.tiktokv.com
 api2-16-h2-eagle-useast2a.musical.ly
@@ -35,9 +24,6 @@ app.tiktokcdn.com
 app.tiktokv.com
 applog.musical.ly
 cdn77-pic.xvideos-cdn.com
-cmaf-source-fcdn-frankfurt.s.worldfcdn.com
-dm-maliva16.byteoversea.com
-dm.bytedance.com
 e10499.dsce9.akamaiedge.net
 e11965.a.akamaiedge.net
 e17437.dscb.akamaiedge.net
@@ -49,7 +35,6 @@ e6858.dsce9.akamaiedge.net
 e6987.e9.akamaiedge.net
 e9959.e9.akamaiedge.net
 frontier.musical.ly
-gateway.fe.apple-dns.net
 gecko-va.musical.ly
 hotapi-va.isnssdk.com
 ib.snssdk.com
@@ -64,7 +49,6 @@ isl2-ssl.mzstatic.com
 isl3-ssl.mzstatic.com
 isl4-ssl.mzstatic.com
 jsb-va.musical.ly
-keyvalueservice.fe.apple-dns.net
 live.muscdn.com
 live.musemuse.cn
 live.musical.ly
@@ -73,7 +57,6 @@ live.tiktok.org
 live.tiktokcdn-com.akamaized.net
 live.tiktokcdn.com
 live.tiktokv.com
-lively-live-web-1571565408.ap-northeast-1.elb.amazonaws.com
 log.tiktokv.com
 log2.musical.ly
 m.tiktok.com
@@ -119,15 +102,12 @@ share.tiktok.org
 share.tiktokcdn-com.akamaized.net
 share.tiktokcdn.com
 share.tiktokv.com
-sharedstreams.fe.apple-dns.net
 t.tiktok.com
 tiktok.com
 tiktok.org
 tiktokcdn-com.akamaized.net
 tiktokcdn.com
 tiktokv.com
-trafficjunky.com
-trafficjunky.net
 v16-tiktokcdn-com.akamaized.net
 v16.muscdn.com
 v16.tiktokcdn.com
@@ -140,22 +120,8 @@ vt.tiktok.com
 xlog-va.byteoversea.com
 xlog-va.musical.ly
 xlog-va.musically.ly
-xp.itunes-apple.com.akadns.net
 xvideos.com
 
-
-cdn.2020mustang.com
-cdn.2020mustang.net
-cdn.adtng.com
-cdn.adtng.net
-cdn.ads.trafficjunky.com
-cdn.ads.trafficjunky.net
-cdn.ad.trafficjunky.com
-cdn.ad.trafficjunky.net
-cdn.as.2020mustang.com
-cdn.as.2020mustang.net
-cdn.a.adtng.com
-cdn.a.adtng.net
 cdn.musemuse.com
 cdn.musically.com
 cdn.musical.ly
@@ -167,21 +133,8 @@ cdn.tiktokv.com
 cdn.tiktokv.net
 cdn.m.tiktokv.com
 cdn.m.tiktokv.net
-cdn.trafficjunky.com
-cdn.trafficjunky.net
 
 www.abtest-va-tiktok.byteoversea.com
-www.ads.trafficjunky.com
-www.ads.trafficjunky.net
-www.ad.trafficjunky.com
-www.ad.trafficjunky.net
-www.as.2020mustang.com
-www.as.2020mustang.net
-www.a.adtng.com
-www.a.adtng.net
-www.all.huodonghylivecdn.sched.ovscdns.net
-www.all.hylivecdn.sched.ovscdns.net
-www.ams1-ib.adnxs.com
 www.api-h2.tiktokv.com
 www.api.tiktokv.com
 www.api2-16-h2-eagle-useast2a.musical.ly
@@ -206,11 +159,6 @@ www.app.tiktokcdn-com.akamaized.net
 www.app.tiktokcdn.com
 www.app.tiktokv.com
 www.applog.musical.ly
-www.baidu.com
-www.cdn77-pic.xvideos-cdn.com
-www.cmaf-source-fcdn-frankfurt.s.worldfcdn.com
-www.dm-maliva16.byteoversea.com
-www.dm.bytedance.com
 www.e10499.dsce9.akamaiedge.net
 www.e11965.a.akamaiedge.net
 www.e17437.dscb.akamaiedge.net
@@ -225,9 +173,6 @@ www.frontier.musical.ly
 www.gateway.fe.apple-dns.net
 www.gecko-va.musical.ly
 www.hotapi-va.isnssdk.com
-www.i1.ytimg.com
-www.i2.ytimg.com
-www.i9.ytimg.com
 www.ib.snssdk.com
 www.ib.tiktokv.com
 www.ibytedtos.com
@@ -240,7 +185,6 @@ www.isl2-ssl.mzstatic.com
 www.isl3-ssl.mzstatic.com
 www.isl4-ssl.mzstatic.com
 www.jsb-va.musical.ly
-www.keyvalueservice.fe.apple-dns.net
 www.live.muscdn.com
 www.live.musemuse.cn
 www.live.musical.ly
@@ -249,7 +193,6 @@ www.live.tiktok.org
 www.live.tiktokcdn-com.akamaized.net
 www.live.tiktokcdn.com
 www.live.tiktokv.com
-www.lively-live-web-1571565408.ap-northeast-1.elb.amazonaws.com
 www.log.tiktokv.com
 www.log2.musical.ly
 www.m.tiktok.com
@@ -302,8 +245,6 @@ www.tiktok.org
 www.tiktokcdn-com.akamaized.net
 www.tiktokcdn.com
 www.tiktokv.com
-www.trafficjunky.com
-www.trafficjunky.net
 www.v16-tiktokcdn-com.akamaized.net
 www.v16.muscdn.com
 www.v16.tiktokcdn.com
@@ -316,7 +257,6 @@ www.vt.tiktok.com
 www.xlog-va.byteoversea.com
 www.xlog-va.musical.ly
 www.xlog-va.musically.ly
-www.xp.itunes-apple.com.akadns.net
 www.xvideos.com
 
 
