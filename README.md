@@ -1,8 +1,6 @@
 # NIlS-Z99 Github Webpage
 
-My Public Projects: </br>
--------------------
-</br>
+## My Public Projects: </br>
 => [DNS-Blocklist](DNS-Blocklist)</br>
 &nbsp; &nbsp; &nbsp; Collection of a couple of DNS-Blocklists for my pi-hole Project. </br>
 &nbsp; &nbsp; &nbsp; disclaimer: I created these by collecting domains from other famous blocklists on the Internet. </br>
@@ -22,7 +20,5 @@ My Public Projects: </br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; what these listed domains are about. </br>
 </br>
 
-My Private Projects: </br>
--------------------
-</br>
+## My Private Projects: </br>
 => [RPi-Setup](https://github.com/NIlS-Z99/RPi-Setup)
